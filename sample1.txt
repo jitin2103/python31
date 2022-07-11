@@ -1,0 +1,3 @@
+A GitHub repository can be used to store a development project.
+ It can contain folders and any type of files
+ (HTML, CSS, JavaScript, Documents, Data, Images). A GitHub repository should …
